@@ -1,8 +1,31 @@
+# FIAP - Faculdade de Informática e Administração Paulista
+
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
+</p>
+
+<br>
 # Gestão de Colheita do Agronegócio
 
 Este é um projeto desenvolvido para gestão da colheita no agronegócio, proporcionando um sistema de simulação de custos e previsão de produção de colheitas, além de armazenar essas informações em um banco de dados Oracle. Este software visa facilitar o gerenciamento e a tomada de decisões para produtores rurais, de forma simples e interativa.
 
-## Objetivos
+## Nome do grupo
+
+## 👨‍🎓 Integrantes: 
+- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 1</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 2</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 3</a> 
+- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 4</a> 
+- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 5</a>
+
+## 👩‍🏫 Professores:
+
+### Tutor(a) 
+- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Tutor</a>
+### Coordenador(a)
+- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Coordenador</a>
+
+## 📜 Descrição
 - **Cadastro de Informações**: Permitir o cadastro de informações sobre os campos e as colheitas, como área plantada, produtividade estimada, máquinas alocadas e custo fixo.
 - **Persistência de Dados**: Salvar esses dados tanto em um banco de dados Oracle quanto em um arquivo JSON para persistência local.
 - **Simulação e Previsão**: Simular custos de colheita e prever a produção estimada, oferecendo insights financeiros importantes.
@@ -31,7 +54,7 @@ Este projeto foi desenvolvido com base nos requisitos das disciplinas estudadas 
 3. **Armazenamento dos Dados**
    - Os dados serão armazenados tanto em um banco de dados Oracle quanto em um arquivo JSON (`dados_campos.json`) para garantir persistência e backup.
 
-## Estrutura do Projeto
+## 📁 Estrutura 
 - **`app.py`**: Arquivo principal contendo a lógica do programa e a interface gráfica.
 - **`dados_campos.json`**: Arquivo JSON gerado automaticamente para armazenar os dados inseridos.
 
@@ -41,7 +64,7 @@ Este projeto foi desenvolvido com base nos requisitos das disciplinas estudadas 
 - **Oracle Database**: Banco de dados utilizado para armazenamento persistente das informações.
 - **JSON**: Formato para salvar os dados localmente, proporcionando backup e portabilidade.
 
-## Lógica do Código
+## 🔧 Como executar o código
 O script está dividido em várias partes importantes para que o funcionamento do programa seja fluido e atenda aos requisitos do agronegócio:
 
 1. **Conexão ao Banco de Dados Oracle**: O script estabelece uma conexão segura com o banco de dados Oracle utilizando as configurações do DSN (Database Source Name). Caso não seja possível conectar, ele exibirá uma mensagem de erro.
@@ -67,6 +90,8 @@ Contribuições são bem-vindas! Caso deseje melhorar o projeto, sinta-se à von
 ## Licença
 Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE no repositório.
 
+## 🗃 Histórico de lançamentos
+* 0.1.0 - 10/10/2024
 ---
 
 Espero que este README ajude a entender melhor o funcionamento do sistema e facilite a apresentação do projeto! Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato.
