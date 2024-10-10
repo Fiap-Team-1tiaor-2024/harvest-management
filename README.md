@@ -12,7 +12,7 @@ Este é um projeto desenvolvido para gestão da colheita no agronegócio, propor
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 1</a>
+- <a href="[https://www.linkedin.com/company/inova-fusca](https://www.linkedin.com/in/ribeirobrunno/)">Brunno Ribeiro de Oliveira - RM560453</a>
 - <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 2</a>
 - <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 3</a> 
 - <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 4</a> 
