@@ -5,6 +5,7 @@
 </p>
 
 <br>
+
 # Gestão de Colheita do Agronegócio
 
 Este é um projeto desenvolvido para gestão da colheita no agronegócio, proporcionando um sistema de simulação de custos e previsão de produção de colheitas, além de armazenar essas informações em um banco de dados Oracle. Este software visa facilitar o gerenciamento e a tomada de decisões para produtores rurais, de forma simples e interativa.
